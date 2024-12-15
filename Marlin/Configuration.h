@@ -65,6 +65,7 @@
 
 // @section info
 
+// Used on a ender 5 pro with 4.2.2 board and STM32F103RE MCU with 512Kb flash
 // Author info of this build printed to the host during boot and M115
 #define STRING_CONFIG_H_AUTHOR "(Ben Ooms, Ender-5 Pro)" // Original author or contributor.
 #define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
